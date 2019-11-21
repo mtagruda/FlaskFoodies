@@ -8,3 +8,17 @@ body,
 html {
   height: 100%;
 }
+
+/* class="col-md-12 jumbotron */
+/* The styles for the parallax */
+.hero {
+  position: relative;
+  height: 550px;
+  padding: 20px;
+  margin: 0;
+  background-color: black;
+  background-image: url("../images/diningoceansmall.jpg");
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-size: cover;
+}
