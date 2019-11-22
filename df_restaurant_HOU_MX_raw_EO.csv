@@ -1,15 +1,14 @@
 Name,Address,Votes,Rating,cost
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
+Hugo's              ," 1600 Westheimer Road, Houston 77006",553 votes,"
+                                        4.5
                                     ",Cost for two:$90
 "Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
+                                    ", 1511 Airline Drive 77009,292 votes,"
+                                        4.8
                                     ",Cost for two:$30
 "Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
+                                    "," 26326 NW Freeway, Cypress 77429",224 votes,"
+                                        4.2
                                     ",Cost for two:$75
 "El Tiempo Cantina
                                     ", 5602 Washington Avenue 77007,230 votes,"
@@ -17,11 +16,11 @@ Name,Address,Votes,Rating,cost
                                     ",Cost for two:$35
 "Lupe Tortilla
                                     "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
+                                        4.3
                                     ",Cost for two:$75
 "Guadalajara Del Centro
                                     "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
+                                        4.2
                                     ",Cost for two:$70
 "Arnaldo Richard's Picos
                                     "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
@@ -29,1505 +28,249 @@ Name,Address,Votes,Rating,cost
                                     ",Cost for two:$75
 "Lopez Mexican
                                     "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
+                                        4.5
                                     ",Cost for two:$50
 "Tortuga Coastal Cantina
                                     ", 6010 Seawall Boulevard 77551,96 votes,"
                                         3.7
                                     ",Cost for two:$25
 "Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
+                                    ", 4701 North Main Street 77009,127 votes,"
+                                        3.9
                                     ",Cost for two:$40
 "100% Taquito
                                     "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
                                         4.1
                                     ",Cost for two:$15
+"Chacho's
+                                    "," 6006 Westheimer Road, Houston 77057",110 votes,"
+                                        4.0
+                                    ",Cost for two:$15
 "Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
+                                    ", 2222 Ella Boulevard 77008,99 votes,"
                                         4.1
                                     ",Cost for two:$50
 "La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
+                                    "," 2109 Dunlavy Street, Houston 77006",86 votes,"
+                                        4.1
                                     ",Cost for two:$30
 "Los Cucos Mexican Cafe
                                     ", 4775 West Panther Creek Drive 77381,97 votes,"
                                         4.0
                                     ",Cost for two:$75
-"Peso's Mexican Cafe
-                                    "," 6512 FM 2100 Rd, Crosby 77532",8 votes,"
-                                        3.4
-                                    ",Cost for two:$25
-"Mamacitas
-                                    ", 7325 Spencer Hwy 77505,12 votes,"
+"Casarez Mexican
+                                    "," 887 Meadowbrook Drive, Houston 77034",8 votes,"
                                         3.5
-                                    ",Cost for two:$25
-"House of Tacos
-                                    "," 4610 FM 723 Rd, Richmond 77406",9 votes,"
-                                        3.4
-                                    ",Cost for two:$25
-"El Gallo de Jalisco
-                                    "," 3220 White Oak Drive, Houston 77007",9 votes,"
-                                        3.3
-                                    ",Cost for two:$15
-"Ranchito
-                                    "," 12150 Bissonnet Street, Alief 77099",6 votes,"
-                                        3.2
-                                    ",Cost for two:$25
-"Tortillas
-                                    "," 9602 Spencer Hwy, La Porte 77571",11 votes,"
-                                        3.4
-                                    ",Cost for two:$75
-"Julio's Mexican Restaurant
-                                    "," 13825 Old Highway 59 N, Splendora 77372",7 votes,"
-                                        3.4
-                                    ",Cost for two:$75
-"5 De Mayo
-                                    "," 18423 FM 1488, Magnolia 77354",6 votes,"
-                                        3.3
-                                    ",Cost for two:$25
-"La Presa
-                                    "," 23343 Aldine Westfield Road, Spring 77373",7 votes,"
-                                        3.4
-                                    ",Cost for two:$30
-"Senor Burritos
-                                    "," 4410 Westway Park Boulevard, Suite 1100, Houston 77041",6 votes,"
-                                        3.3
-                                    ",Cost for two:$25
-"Tacos La Bala
-                                    "," 343 S Mason Rd, Katy 77450",9 votes,"
-                                        3.3
-                                    ",Cost for two:$25
-"Taqueria NASA
-                                    "," 2622 Nasa Rd 1, Seabrook 77586",8 votes,"
-                                        3.3
-                                    ",Cost for two:$25
-"El Cacique
-                                    "," 2409 N. Alexander, Baytown 77520",7 votes,"
-                                        3.4
-                                    ",Cost for two:$25
-"El Jalapeno Mexician Cafe
-                                    "," 5324 FM 1960 Rd E, Humble 77346",10 votes,"
-                                        3.5
-                                    ",Cost for two:$25
-"Tequeria Tepatitlan
-                                    "," 4720 N Main Street, Houston 77009",",","
-                                        3.4
-                                    ",Cost for two:$30
-"Midtown BBQ
-                                    ", 2708 Bagby Street 77006,Cuisines: ,"
-                                        -
-                                    ",Cost for two:$45
-"Abuelo's Mexican Restaurant
-                                    "," 24600 Katy Fwy, Suite 1020, Katy 77493",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$50
-"Mr. Rico Pollo Loco
-                                    "," 1810 Rayford Rd,Suite E, Spring",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Garay Mexican Grill
-                                    "," 5517 Airline Drive, Houston 77076",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Mexicanos Taqueria
-                                    "," 9350 Fuqua St, Houston 77075",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"El Hacendado Restaurante
-                                    "," 9032 N Hwy 146, Baytown 77523",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$75
-"Ruchis El Rincon de Mexico
-                                    "," 11460 Fuqua St, Houston 77089",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Mas Taco
-                                    "," 1019 Dairy Ashford Road, Houston 77079",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$10
-"Taqueria Hecho En Mexico
-                                    "," 12722 Hempstead Rd, Houston 77092",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Taqueria El Nopalito
-                                    ", 15323 Gulf Freeway 77034,Cuisines: ,"
-                                        -
-                                    ",Cost for two:$75
-"Super Tortas DF
-                                    "," 14632 Hempstead Road, Houston 77040",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Blanquita's Mexican Restaurant
-                                    ", 10615 Market St Road 77029,Cuisines: ,"
-                                        -
-                                    ",Cost for two:$75
-"Whata Pollo & More
-                                    "," 500 N Main St, Baytown 77520",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$75
-"Taqueria Y Restaurant El Sol de Mexico
-                                    ", 501 N Alexander Drive 77520,Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Los Compas Taqueria
-                                    "," 22424 Imperial Valley Drive, Houston 77073",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"El Taco Man
-                                    "," 610 W Cavalcade St, Houston 77009",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Tacos El Nuevo Chuy
-                                    "," 4922 Lockwood Dr, Houston 77026",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"El Taconazo Grill
-                                    "," 7320 Airline Drive, Houston 77076",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"El Serrano Jalisco
-                                    "," Location Varies, Houston 77003",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Taqueria Don Carlos 100%
-                                    "," 10100 Clay Rd, Houston 77080",Cuisines: ,"
-                                        -
                                     ",Cost for two:$25
 "Pollos Asados El Regio
-                                    "," 9510 Beechnut St, Houston 77036",Cuisines: ,"
-                                        -
+                                    "," 61 Tidwell Rd, Houston 77022",6 votes,"
+                                        3.8
                                     ",Cost for two:$25
-"San Lorenzo Taqueria
-                                    ", 3020 Marina Bay Drive. 77573,Cuisines: ,"
-                                        -
+"Noyola's Mexican
+                                    "," 242 1st Street W, Humble 77338",9 votes,"
+                                        3.4
                                     ",Cost for two:$25
-"Restaurante Y Puseria Olocuita
-                                    "," 5532 Airline Dr, Houston 77076",Cuisines: ,"
-                                        -
-                                    ",Cost for two:$25
-"Caffe Di Fiore
-                                    "," 10110 Woodlands Parkway, Suite 900, The Woodlands 77382",33 votes,"
+"Juan Big Burritos
+                                    "," 176 Gulf Fwy S, League City 77573",9 votes,"
                                         3.5
-                                    ",Cost for two:$60
-"Tampico Seafood & Cocina Mexicana
-                                    ", 2115 Airline Drive 77009,39 votes,"
-                                        3.8
-                                    ",Cost for two:$35
-"Mom Alone Mexican Grill
-                                    ", 1111 E Nasa Parkway 77058,41 votes,"
-                                        3.9
                                     ",Cost for two:$25
-"El Rey Taqueria
-                                    "," 3330 Ella Boulevard, Houston 77018",46 votes,"
-                                        4.1
-                                    ",Cost for two:$25
-"Skeeter's Mesquite Grill
-                                    "," 5529 Weslayan Street, Houston 77005",36 votes,"
+"La Victoria Bakery
+                                    "," 7138 Lawndale St, Houston 77023",6 votes,"
                                         3.6
                                     ",Cost for two:$25
-"Connie's Seafood Market & Restaurant
-                                    ", 2525 Airline Drive 77009,32 votes,"
+"Brenda's Taqueria
+                                    "," 3766 S Gessner Road, Houston 77063",9 votes,"
+                                        3.4
+                                    ",Cost for two:$25
+"El Chinampa
+                                    "," 15634 Wallisville Rd. Suite 400, Houston 77049",9 votes,"
+                                        3.2
+                                    ",Cost for two:$75
+"Charro Potato
+                                    "," 8423 Cinnamon Run, Spring 77389",10 votes,"
+                                        3.5
+                                    ",Cost for two:$25
+"Enchiluda's Mexican Café
+                                    "," 14025 Westheimer Road, Houston 77077",5 votes,"
+                                        3.3
+                                    ",Cost for two:$25
+"Iguanas Ranas Cantina
+                                    "," 6200 West Broadway Street, Suite 102 77581",5 votes,"
+                                        3.2
+                                    ",Cost for two:$25
+"Taqueria Jalisco
+                                    "," 1108 N Loop 336 W, Conroe 77303",7 votes,"
+                                        3.2
+                                    ",Cost for two:$25
+"Pueblo Viejo
+                                    "," 8408 Katy Fwy., Houston 77024",10 votes,"
+                                        3.3
+                                    ",Cost for two:$25
+"Horno Monterrey Bakery
+                                    "," 7110 Louetta Road, Spring 77379",7 votes,"
+                                        3.6
+                                    ",Cost for two:$25
+"Nopalera Grill
+                                    "," 1736 Texas Ave, Texas City 77590",2 votes,"
+                                        3.6
+                                    ",Cost for two:$25
+"Mi Casa De Sabor Bar & Grill
+                                    ", 8232 Long Point Road 77055,3 votes,"
+                                        3.1
+                                    ",Cost for two:$75
+"Ajua Mexican Cuisine
+                                    "," 9537 Hwy 146, Dayton 77535",4 votes,"
+                                        3.0
+                                    ",Cost for two:$25
+"Carbonero Restaurant El
+                                    "," 13627 Veterans Memorial Dr, Houston 77014",0 votes,"
+                                        3.0
+                                    ",Cost for two:$25
+"Taqueria El Herradero
+                                    "," 9521 Telephone Rd, Houston 77075",0 votes,"
+                                        3.0
+                                    ",Cost for two:$25
+"Colima Mexican Kitchen
+                                    "," 3356 Fountain View Drive, Houston 77057",0 votes,"
+                                        3.0
+                                    ",Cost for two:$25
+"Tacos El Maguey
+                                    "," 8530 Bellaire Blvd., Houston 77036",4 votes,"
+                                        2.9
+                                    ",Cost for two:$25
+"Taqueria Del Chino
+                                    "," 7844 HARRISBURG, Houston 77012",4 votes,"
+                                        3.0
+                                    ",Cost for two:$25
+"Enchilada Way Mexican Grill
+                                    "," 7101 W Grand Parkway S, Suite 120 77407",14 votes,"
+                                        2.4
+                                    ",Cost for two:$75
+"La Bikina
+                                    "," 4223 Research Forest Drive Suite 100, The Woodlands 77381",10 votes,"
+                                        2.5
+                                    ",Cost for two:$150
+"El Rio Mexican
+                                    "," 504 S Main St, Highlands 77562",2 votes,"
+                                        2.5
+                                    ",Cost for two:$25
+"Los Compadres Mexican Restaurant
+                                    "," 8302 N Eldridge Pkwy, Houston 77041",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$75
+"El Rey Cuban and Mexican Cuisine Taqueria - Midtown
+                                    ", 910 Shepherd Drive 77007,156 votes,"
+                                        4.5
+                                    ",Cost for two:$25
+"Caracol
+                                    "," 2200 Post Oak Boulevard, Suite 160, Houston 77056",101 votes,"
+                                        4.2
+                                    ",Cost for two:$125
+"Salsas Seaside Restaurant
+                                    ", 4604 Seawall Boulevard 77551,95 votes,"
                                         3.8
+                                    ",Cost for two:$75
+"Taquilo's Tex-Mex Cantina
+                                    "," 2101 Postoffice Street, Galveston 77550",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"TuCasita
+                                    "," 10400 Bissonnet St Ste A, Houston 77099",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"Taquirea Leticia #2
+                                    "," 2520 Airline Dr, Houston 77009",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"El Cuscatleco Cafeteria
+                                    "," 6041 Bissonnet St, Houston 77081",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"Cocina Latina
+                                    "," 10301 Club Creek Dr, Houston 77036",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"El Catrin
+                                    "," 7403 Irvington Blvd, Houston 77022",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"El Rey Del Pollo Lawndale
+                                    "," 7170 Lawndale St, Houston 77023",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$75
+"El Papaturro
+                                    "," 50 Aldine Bender Rd, Houston 77060",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"La Balita Con Sabor a Mexico
+                                    "," 4338 Highway 6 North, Houston 77084",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$75
+"La Tia Restaurant
+                                    "," 5877 S Gessner Rd, Houston 77036",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$75
+"Las Ramadas
+                                    ", 22754 Cypresswood Drive 77373,Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"Señor Burritos Authentic Mexican Grill
+                                    ", 1029 Hwy 6 North 500,Cuisines: ,"
+                                        -
                                     ",Cost for two:$20
-"Oh My Gogi! BBQ
-                                    ", 5555 Morningside Drive 77005,34 votes,"
-                                        3.7
+"el Taco pro
+                                    "," 130 S 75th, Houston 77011",Cuisines: ,"
+                                        -
                                     ",Cost for two:$25
-"Henry's Mexican
-                                    "," 2823 Broadway Street, Galveston 77550",21 votes,"
-                                        3.6
+"Tacos Arcelia #3
+                                    "," 2102 Wirt Rd, Houston 77055",Cuisines: ,"
+                                        -
                                     ",Cost for two:$25
-"La Brisa On The Creek
-                                    "," 501 N Wesley Drive, League City 77573",25 votes,"
-                                        3.6
-                                    ",Cost for two:$75
-"Juanito's Mexican Restaurant
-                                    "," 2536 S Grand Boulevard, Pearland 77581",25 votes,"
-                                        3.7
+"Tamaleria Guatemix
+                                    "," 6394 Windswept Lane, Houston 77057",Cuisines: ,"
+                                        -
                                     ",Cost for two:$25
-"Mambo Seafood
-                                    "," 13485 Northwest Fwy, Houston 77040",32 votes,"
-                                        3.7
-                                    ",Cost for two:$75
-"Golden Seafood House
-                                    ", 2407 Airline Drive 77009,21 votes,"
-                                        3.8
-                                    ",Cost for two:$35
-"Fish and Camaron Sterling Ridge
-                                    ", 9950 Woodlands Parkway 450 77382,9 votes,"
-                                        3.7
-                                    ",Cost for two:$40
-"Fusion Taco
-                                    "," 801 Congress Avenue, Suite 10 77002",20 votes,"
+"La Salmantina Taqueria
+                                    "," 10141 Telephone Rd, Houston 77075",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"El Pancake Cafe
+                                    "," 6260 Westpark Drive, Houston 77057",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$20
+"Tacos Arcelia #4
+                                    "," 1648 Gessner Dr, Houston 77080",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"Mi Regio Restaurant
+                                    "," 7718 West Little York Road, Houston 77040",Cuisines: ,"
+                                        -
+                                    ",Cost for two:$25
+"Bob's Taco Station
+                                    ", 1901 Avenue H 77471,",","
+                                        4.2
+                                    ",Cost for two:$25
+"La Fisheria
+                                    "," 213 Milam Street, Houston 77007",66 votes,"
                                         3.9
-                                    ",Cost for two:$30
-"La Brisa on the Creek
-                                    ", 501 Wesley Drive 77573,25 votes,"
-                                        3.6
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
                                     ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
+"El Bolillo Bakery
+                                    "," 2517 Airline Drive, Houston 77009",68 votes,"
+                                        4.3
+                                    ",Cost for two:$10
+"El Rey
+                                    "," 9742 Katy Fwy #100, Houston 77055",70 votes,"
+                                        3.9
                                     ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
+"Texas Shrimp Shack by Selma
+                                    "," 1617 Richmond Avenue, Houston 77006",57 votes,"
                                         3.7
+                                    ",Cost for two:$30
+"Julio's
+                                    "," 19235 Farm to Market 2920, Tomball 77377",50 votes,"
+                                        4.2
                                     ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
-"Hugo's
-                                    "," 1600 Westheimer Road, Houston 77006",552 votes,"
-                                        4.8
-                                    ",Cost for two:$90
-"Teotihuacan Mexican Cafe
-                                    ", 1511 Airline Drive 77009,290 votes,"
-                                        4.6
-                                    ",Cost for two:$30
-"Alicia's Mexican Grille
-                                    "," 26326 NW Freeway, Cypress 77429",222 votes,"
-                                        4.3
-                                    ",Cost for two:$75
-"El Tiempo Cantina
-                                    ", 5602 Washington Avenue 77007,230 votes,"
-                                        4.5
-                                    ",Cost for two:$35
-"Lupe Tortilla
-                                    "," 318 Stafford Street, Houston 77079",200 votes,"
-                                        4.4
-                                    ",Cost for two:$75
-"Guadalajara Del Centro
-                                    "," 1201 San Jacinto Street, Houston 77002",116 votes,"
-                                        4.3
-                                    ",Cost for two:$70
-"Arnaldo Richard's Picos
-                                    "," 3601 Kirby Drive, Upper Kirby District 77098",113 votes,"
-                                        4.1
-                                    ",Cost for two:$75
-"Lopez Mexican
-                                    "," 11606 Wilcrest Drive, Houston 77099",108 votes,"
-                                        4.4
-                                    ",Cost for two:$50
-"Tortuga Coastal Cantina
-                                    ", 6010 Seawall Boulevard 77551,96 votes,"
-                                        3.7
-                                    ",Cost for two:$25
-"Spanish Flowers Mexican Restaurant
-                                    ", 4701 North Main Street 77009,126 votes,"
-                                        4.0
-                                    ",Cost for two:$40
-"100% Taquito
-                                    "," 3245 Southwest Fwy, Houston 77027",112 votes,"
-                                        4.2
-                                    ",Cost for two:$15
-"Chacho's
-                                    "," 6006 Westheimer Road, Houston 77057",109 votes,"
-                                        4.1
-                                    ",Cost for two:$15
-"Tony's Mexican Restaurant
-                                    ", 2222 Ella Boulevard 77008,96 votes,"
-                                        4.1
-                                    ",Cost for two:$50
-"La Guadalupana Bakery and Cafe
-                                    "," 2109 Dunlavy Street, Houston 77006",85 votes,"
-                                        4.2
-                                    ",Cost for two:$30
-"Los Cucos Mexican Cafe
-                                    ", 4775 West Panther Creek Drive 77381,97 votes,"
-                                        4.0
-                                    ",Cost for two:$75
+"Peska Seafood Culture
+                                    "," 1700 Post Oak Boulevard, Houston 77056",16 votes,"
+                                        3.5
+                                    ",Cost for two:$100
