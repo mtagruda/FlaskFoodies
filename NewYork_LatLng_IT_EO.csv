@@ -1,1189 +1,1189 @@
-Name,Address,Votes,Rating,cost,long,lat,Longitude,Latitude
+Name,Address,Votes,Rating,cost,Longitude,Latitude
 "Carmine's Italian Restaurant
                                     "," 200 West 44th Street, btwn Broadway & 8th Avenue 10036",1048 votes,"
                                         4.7
-                                    ",Cost for two:$100,,,-73.986654,40.757498
+                                    ",Cost for two:$100,-73.986654,40.757498
 "Becco
                                     "," 355 West 46th Street, Theater District 10036",",","
                                         4.7
-                                    ",Cost for two:$110,,,-73.98983240000001,40.760804
+                                    ",Cost for two:$110,-73.98983240000001,40.760804
 "Lombardi's Pizza
                                     "," 32 Spring Street, New York 10012",1445 votes,"
                                         4.9
-                                    ",Cost for two:$50,,,-73.9956827,40.7215657
+                                    ",Cost for two:$50,-73.9956827,40.7215657
 "Grimaldi's Pizzeria
                                     "," 1 Front Street, Brooklyn 11201",935 votes,"
                                         4.6
-                                    ",Cost for two:$50,,,-73.9932413,40.70261
+                                    ",Cost for two:$50,-73.9932413,40.70261
 "John's Pizza of Times Square
                                     "," 260 W 44th Street, New York 10036",718 votes,"
                                         4.7
-                                    ",Cost for two:$40,,,-73.98839579999999,40.7582117
+                                    ",Cost for two:$40,-73.98839579999999,40.7582117
 "Babbo
                                     "," 110 Waverly Pl, Greenwich Village 10011",834 votes,"
                                         4.3
-                                    ",Cost for two:$150,,,-73.9992785,40.732296
+                                    ",Cost for two:$150,-73.9992785,40.732296
 "Otto Enoteca Pizzeria
                                     "," One Fifth Avenue at 8th Street, Greenwich Village 10003",569 votes,"
                                         4.4
-                                    ",Cost for two:$40,,,-73.9962275,40.7319594
+                                    ",Cost for two:$40,-73.9962275,40.7319594
 "The Meatball Shop
                                     ", 84 Stanton Street 10002,393 votes,"
                                         4.6
-                                    ",Cost for two:$50,,,-73.98878069999999,40.7216601
+                                    ",Cost for two:$50,-73.98878069999999,40.7216601
 "Union Square Cafe
                                     "," 16th Street, New York 10003",",","
                                         4.4
-                                    ",Cost for two:$75,,,-73.987819,40.7352956
+                                    ",Cost for two:$75,-73.987819,40.7352956
 "Locanda Verde
                                     "," 377 Greenwich Street, New York 10013",361 votes,"
                                         4.6
-                                    ",Cost for two:$100,,,-74.00985399999999,40.7198459
+                                    ",Cost for two:$100,-74.00985399999999,40.7198459
 "Lupa Osteria Romana
                                     "," 170 Thompson Street, New York 10012",412 votes,"
                                         4.3
-                                    ",Cost for two:$100,,,-74.0000589,40.7276574
+                                    ",Cost for two:$100,-74.0000589,40.7276574
 "Roberta's
                                     "," 261 Moore Street, Brooklyn 11206",",","
                                         4.8
-                                    ",Cost for two:$50,,,-73.9335742,40.7050886
+                                    ",Cost for two:$50,-73.9335742,40.7050886
 "Del Posto
                                     "," 85 10th Avenue, Chelsea 10011",284 votes,"
                                         4.3
-                                    ",Cost for two:$250,,,-74.0079322,40.7433097
+                                    ",Cost for two:$250,-74.0079322,40.7433097
 "L & B Spumoni Gardens
                                     ", 2725 86th Street 11223,293 votes,"
                                         4.7
-                                    ",Cost for two:$75,,,-73.9813041,40.5947441
+                                    ",Cost for two:$75,-73.9813041,40.5947441
 "La Birreria
                                     ", 200 Fifth Avenue 10010,173 votes,"
                                         4.3
-                                    ",Cost for two:$80,,,-73.989942,40.7419978
+                                    ",Cost for two:$80,-73.989942,40.7419978
 "Barcibo Enoteca
                                     "," 2020 Broadway, New York 10023",47 votes,"
                                         4.0
-                                    ",Cost for two:$90,,,-73.9818392,40.7764542
+                                    ",Cost for two:$90,-73.9818392,40.7764542
 "Numero 28 Pizzeria
                                     "," 28 Carmine Street, New York 10014",33 votes,"
                                         3.4
-                                    ",Cost for two:$60,,,-74.0027807,40.7300735
+                                    ",Cost for two:$60,-74.0027807,40.7300735
 "Road House
                                     ", 1400 Clove Road 10301,27 votes,"
                                         3.3
-                                    ",Cost for two:$75,,,-74.1007339,40.6133229
+                                    ",Cost for two:$75,-74.1007339,40.6133229
 "Tre Otto
                                     ", 1410 Madison Avenue 10029,",","
                                         3.6
-                                    ",Cost for two:$60,,,-73.9535933,40.7883992
+                                    ",Cost for two:$60,-73.9535933,40.7883992
 "Il Piccolo Bufalo
                                     "," 141 Mulberry Street, New York 10013",29 votes,"
                                         3.7
-                                    ",Cost for two:$60,,,-73.9979012,40.7188558
+                                    ",Cost for two:$60,-73.9979012,40.7188558
 "Lunella Ristorante
                                     "," 173 Mulberry Street, New York 10013",37 votes,"
                                         3.6
-                                    ",Cost for two:$60,,,-73.99721250000002,40.7201098
+                                    ",Cost for two:$60,-73.99721250000002,40.7201098
 "The Perfect Pint
                                     "," 123 West 45th Street, New York 10036",",","
                                         3.7
-                                    ",Cost for two:$60,,,-73.9837397,40.7574076
+                                    ",Cost for two:$60,-73.9837397,40.7574076
 "Acappella Restaurant
                                     "," 1 Hudson Street, New York 10013",40 votes,"
                                         4.0
-                                    ",Cost for two:$100,,,-74.0094311,40.7157455
+                                    ",Cost for two:$100,-74.0094311,40.7157455
 "Luce Restaurant & Enoteca
                                     "," 2014 Broadway, New York 10023",36 votes,"
                                         3.7
-                                    ",Cost for two:$110,,,-73.9818528,40.7758988
+                                    ",Cost for two:$110,-73.9818528,40.7758988
 "Gina La Fornarina
                                     "," 279 Amsterdam Avenue, New York 10023",23 votes,"
                                         3.4
-                                    ",Cost for two:$60,,,-73.9808348,40.7793132
+                                    ",Cost for two:$60,-73.9808348,40.7793132
 "Gradisca
                                     "," 126 West 13th Street, New York 10011",40 votes,"
                                         3.9
-                                    ",Cost for two:$90,,,-73.99867019999999,40.73704559999999
+                                    ",Cost for two:$90,-73.99867019999999,40.73704559999999
 "Tappo
                                     "," 49 West 24th Street, flatiron 10010",26 votes,"
                                         4.1
-                                    ",Cost for two:$40,,,-73.9914786,40.7434704
+                                    ",Cost for two:$40,-73.9914786,40.7434704
 "Graziella's Restaurant
                                     "," 232 Vanderbilt Avenue, Brooklyn 11205",",","
                                         4.0
-                                    ",Cost for two:$50,,,-73.9695758,40.6904686
+                                    ",Cost for two:$50,-73.9695758,40.6904686
 "Michael Angelo's Pizza & Restaurant
                                     "," 29-11 23rd Avenue, Queens 11105",29 votes,"
                                         4.0
-                                    ",Cost for two:$40,,,-73.913251,40.774977
+                                    ",Cost for two:$40,-73.913251,40.774977
 "Ferdinando's Focacceria
                                     ", 151 Union Street 11231,30 votes,"
                                         4.2
-                                    ",Cost for two:$75,,,-74.0018494,40.6842226
+                                    ",Cost for two:$75,-74.0018494,40.6842226
 "Pizza Plus
                                     "," 359 7th Avenue, Brooklyn 11215",14 votes,"
                                         4.0
-                                    ",Cost for two:$50,,,-73.98214209999999,40.6658818
+                                    ",Cost for two:$50,-73.98214209999999,40.6658818
 "San Matteo Pizza and Espresso Bar
                                     "," 1739 2nd Avenue, New York 10028",",","
                                         3.5
-                                    ",Cost for two:$50,,,-73.9501147,40.7803924
+                                    ",Cost for two:$50,-73.9501147,40.7803924
 "Intermezzo
                                     ", 202 8th Avenue 10011,24 votes,"
                                         3.2
-                                    ",Cost for two:$70,,,-73.9994683,40.7435248
+                                    ",Cost for two:$70,-73.9994683,40.7435248
 "Tomato & Basil Pizza
                                     "," 226 4th Avenue, Brooklyn 11215",12 votes,"
                                         3.5
-                                    ",Cost for two:$40,,,-73.9834688,40.6773658
+                                    ",Cost for two:$40,-73.9834688,40.6773658
 "Via Italia
                                     "," 45 W 46th Street, New York 10036",21 votes,"
                                         3.8
-                                    ",Cost for two:$65,,,-73.9807246,40.7569691
+                                    ",Cost for two:$65,-73.9807246,40.7569691
 "Al Forno Pizzeria
                                     "," 1484 2nd Avenue, New York 10021",",","
                                         3.5
-                                    ",Cost for two:$60,,,-73.95562770000001,40.7721348
+                                    ",Cost for two:$60,-73.95562770000001,40.7721348
 "Senafina Osteria
                                     "," 38 East 58th Street, New York, NY 10022",26 votes,"
                                         3.7
-                                    ",Cost for two:$75,,,-73.97166039999999,40.7626988
+                                    ",Cost for two:$75,-73.97166039999999,40.7626988
 "La Vela
                                     "," 373 Amsterdam Avenue, New York 10024",24 votes,"
                                         3.6
-                                    ",Cost for two:$60,,,-73.9786752,40.7821681
+                                    ",Cost for two:$60,-73.9786752,40.7821681
 "PT Restaurant
                                     "," 331 Bedford Ave, Brooklyn 11211",19 votes,"
                                         4.1
-                                    ",Cost for two:$75,,,-73.9622835,40.7126314
+                                    ",Cost for two:$75,-73.9622835,40.7126314
 "Sal's Pizzeria
                                     "," 305 Court Street, Brooklyn 11231",12 votes,"
                                         3.6
-                                    ",Cost for two:$20,,,-73.99509019999999,40.6835769
+                                    ",Cost for two:$20,-73.99509019999999,40.6835769
 "Sette Mezzo
                                     "," 969 Lexington Avenue, New York 10021",20 votes,"
                                         3.7
-                                    ",Cost for two:$100,,,-73.9627852,40.7692655
+                                    ",Cost for two:$100,-73.9627852,40.7692655
 "Mama Maria's Restaurant
                                     "," 307 Court Street, Brooklyn 11231",8 votes,"
                                         3.6
-                                    ",Cost for two:$50,,,-73.99513309999999,40.68354040000001
+                                    ",Cost for two:$50,-73.99513309999999,40.68354040000001
 "Gianni Pizza
                                     "," 81-13 Northern Boulevard, Queens, NY 11372",10 votes,"
                                         3.8
-                                    ",Cost for two:$30,,,-73.88575569999999,40.7557575
+                                    ",Cost for two:$30,-73.88575569999999,40.7557575
 "Tino's Delicatessen
                                     "," 2410 Arthur Avenue, Bronx 10458",13 votes,"
                                         3.7
-                                    ",Cost for two:$25,,,-73.8871023,40.8557948
+                                    ",Cost for two:$25,-73.8871023,40.8557948
 "Tony's Di Napoli
                                     "," 1081 3rd Avenue, Upper East Side 10065",26 votes,"
                                         3.5
-                                    ",Cost for two:$100,,,-73.9640727,40.7643536
+                                    ",Cost for two:$100,-73.9640727,40.7643536
 "Cheesy Pizza
                                     "," 2640 Broadway, New York 10025",5 votes,"
                                         3.2
-                                    ",Cost for two:$40,,,-73.96957290000002,40.79718889999999
+                                    ",Cost for two:$40,-73.96957290000002,40.79718889999999
 "Ozone Pizza
                                     "," 96-15 Liberty Avenue, Ozone Park 11417",5 votes,"
                                         3.2
-                                    ",Cost for two:$30,,,-73.8426307,40.6808917
+                                    ",Cost for two:$30,-73.8426307,40.6808917
 "Armando's Restaurant
                                     "," 1413 Rockaway Parkway, Brooklyn 11236",4 votes,"
                                         3.7
-                                    ",Cost for two:$15,,,-73.9026454,40.6456823
+                                    ",Cost for two:$15,-73.9026454,40.6456823
 "Lazzara's Pizza
                                     "," 221 W 38th Street, New York 10018",4 votes,"
                                         3.3
-                                    ",Cost for two:$75,,,-73.9895336,40.7540255
+                                    ",Cost for two:$75,-73.9895336,40.7540255
 "11B Express Restaurant
                                     "," 174 Avenue B, New York 10009",5 votes,"
                                         3.3
-                                    ",Cost for two:$35,,,-73.9797663,40.7274486
+                                    ",Cost for two:$35,-73.9797663,40.7274486
 "Toby's Public House
                                     "," 86 Kenmare Street, New York 10012",7 votes,"
                                         3.2
-                                    ",Cost for two:$45,,,-73.9968308,40.7211113
+                                    ",Cost for two:$45,-73.9968308,40.7211113
 "Roebling Pizza
                                     "," 326 Roebling Street, Brooklyn 11211",7 votes,"
                                         3.4
-                                    ",Cost for two:$25,,,-73.9611011,40.70855299999999
+                                    ",Cost for two:$25,-73.9611011,40.70855299999999
 "Knapp Pizza II
                                     ", 261 Avenue X 11223,6 votes,"
                                         3.5
-                                    ",Cost for two:$20,,,-73.97322799999999,40.590349
+                                    ",Cost for two:$20,-73.97322799999999,40.590349
 "Ponte Vecchio
                                     "," 8810 4th Avenue, Brooklyn 11209",",","
                                         3.8
-                                    ",Cost for two:$110,,,-74.0293038,40.6211904
+                                    ",Cost for two:$110,-74.0293038,40.6211904
 "Saggio
                                     "," 829 W 181st Street, New York 10033",11 votes,"
                                         3.8
-                                    ",Cost for two:$70,,,-73.939588,40.8514729
+                                    ",Cost for two:$70,-73.939588,40.8514729
 "Radicchio Pasta and Risotto Co.
                                     "," 1664 3rd Avenue, New York 10022",8 votes,"
                                         3.7
-                                    ",Cost for two:$35,,,-73.950884,40.7835397
+                                    ",Cost for two:$35,-73.950884,40.7835397
 "Fino Wine & Tapas
                                     "," 39-13 Bell Boulevard, Queens 11361",",","
                                         3.9
-                                    ",Cost for two:$110,,,-73.77138099999999,40.764961
+                                    ",Cost for two:$110,-73.77138099999999,40.764961
 "Terroir
                                     "," 24 Harrison Street, New York 10013",",","
                                         3.4
-                                    ",Cost for two:$80,,,-74.00997500000001,40.7189065
+                                    ",Cost for two:$80,-74.00997500000001,40.7189065
 "Parm
                                     "," 235 Columbus Avenue, New York 10023",",","
                                         3.3
-                                    ",Cost for two:$55,,,-73.9792599,40.7764404
+                                    ",Cost for two:$55,-73.9792599,40.7764404
 "Joe's Pizza
                                     "," 211 8th Avenue, New York 10011",5 votes,"
                                         3.0
-                                    ",Cost for two:$20,,,-73.999752,40.743953
+                                    ",Cost for two:$20,-73.999752,40.743953
 "Vico Ristorante
                                     "," 1302 Madison Avenue, New York 10128",3 votes,"
                                         3.6
-                                    ",Cost for two:$160,,,-73.956073,40.7850107
+                                    ",Cost for two:$160,-73.956073,40.7850107
 "Il Sapore Pizza & Restaurant
                                     "," 44-17 Douglaston Parkway, Queens 11363",0 votes,"
                                         3.0
-                                    ",Cost for two:$35,,,-73.744914,40.76609699999999
+                                    ",Cost for two:$35,-73.744914,40.76609699999999
 "Cielo at the Mayfair
                                     "," 242 West 49th St, New York 10019",7 votes,"
                                         3.3
-                                    ",Cost for two:$150,,,-73.9859663,40.7611725
+                                    ",Cost for two:$150,-73.9859663,40.7611725
 "Joseph's Restaurant
                                     "," 3 Hanover Square, Financial District 10004",10 votes,"
                                         3.5
-                                    ",Cost for two:$100,,,-74.0096537,40.7049944
+                                    ",Cost for two:$100,-74.0096537,40.7049944
 "Liberatos Pizza
                                     "," 17 Cedar Street, New York 10005",4 votes,"
                                         2.7
-                                    ",Cost for two:$25,,,-74.0079385,40.7069636
+                                    ",Cost for two:$25,-74.0079385,40.7069636
 "La Bruschetta
                                     ", 256 7th Avenue 11215,",","
                                         2.7
-                                    ",Cost for two:$45,,,-73.9798002,40.6692541
+                                    ",Cost for two:$45,-73.9798002,40.6692541
 "Brooks 1890
                                     "," 24-28 Jackson Avenue, Queens 11101",",","
                                         3.3
-                                    ",Cost for two:$50,,,-73.9441073,40.7462698
+                                    ",Cost for two:$50,-73.9441073,40.7462698
 "Va Bene
                                     "," 1589 2nd Avenue, New York 10028",11 votes,"
                                         3.5
-                                    ",Cost for two:$150,,,-73.9536392,40.77567699999999
+                                    ",Cost for two:$150,-73.9536392,40.77567699999999
 "Milk & Roses
                                     "," 1110 Manhattan Avenue, Brooklyn 11222",",","
                                         3.4
-                                    ",Cost for two:$50,,,-73.9551115,40.736414
+                                    ",Cost for two:$50,-73.9551115,40.736414
 "Village Den Restaurant
                                     "," 225 W 12th Street, New York 10011",11 votes,"
                                         3.5
-                                    ",Cost for two:$40,,,-74.00148209999999,40.7378207
+                                    ",Cost for two:$40,-74.00148209999999,40.7378207
 "Cafe Eighty Two
                                     "," 2282 Broadway, New York 10024",7 votes,"
                                         3.5
-                                    ",Cost for two:$40,,,-73.9781495,40.78586749999999
+                                    ",Cost for two:$40,-73.9781495,40.78586749999999
 "Bocca
                                     ", 135 West 50th Street 10020,7 votes,"
                                         3.4
-                                    ",Cost for two:$40,,,-73.98219739999999,40.7609404
+                                    ",Cost for two:$40,-73.98219739999999,40.7609404
 "Verona Pizza & Italian
                                     "," 2515 Boston Road, Bronx 10467",4 votes,"
                                         2.7
-                                    ",Cost for two:$40,,,-73.8651783,40.86378970000001
+                                    ",Cost for two:$40,-73.8651783,40.86378970000001
 "Bin 5
                                     "," 1233 Bay St, Staten Island 10305",9 votes,"
                                         3.4
-                                    ",Cost for two:$150,,,-74.06529549999999,40.6133306
+                                    ",Cost for two:$150,-74.06529549999999,40.6133306
 "Ann and Tony's
                                     "," 2407 Arthur Avenue, Bronx 10458",11 votes,"
                                         3.5
-                                    ",Cost for two:$75,,,-73.8875738,40.855849
+                                    ",Cost for two:$75,-73.8875738,40.855849
 "Tony's Pizza Bar and Restaurant
                                     "," 308 Cortelyou Road, Brooklyn 11218",",","
                                         -
-                                    ",Cost for two:$30,,,-73.976001,40.6380729
+                                    ",Cost for two:$30,-73.976001,40.6380729
 "Nonno's Pizza
                                     "," 8816 3rd Aveune, Brooklyn, NY 11209",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-74.0320105,40.62168399999999
+                                    ",Cost for two:$25,-74.0320105,40.62168399999999
 "Brickhouse Pizzeria
                                     "," 357 Bedford Avenue, Brooklyn, NY 11211",Cuisines: ,"
                                         -
-                                    ",Cost for two:$40,,,-73.9629568,40.7115749
+                                    ",Cost for two:$40,-73.9629568,40.7115749
 "St. Alban's Restaurant II
                                     "," 13512 Jamaica Ave, Richmond Hill 11418",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.8172403,40.7022819
+                                    ",Cost for two:$25,-73.8172403,40.7022819
 "Republic
                                     "," 3329 Astoria Blvd, Astoria 11103",Cuisines: ,"
                                         -
-                                    ",Cost for two:$75,,,-73.9146301,40.7702476
+                                    ",Cost for two:$75,-73.9146301,40.7702476
 "Italian Affair
                                     "," 225-02 Jamaica Avenue, Queens 11001",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.7299626,40.721929
+                                    ",Cost for two:$20,-73.7299626,40.721929
 "Dante's Pizza
                                     "," 10503 Metropolitan Avenue, Forest Hills 11375",Cuisines: ,"
                                         -
-                                    ",Cost for two:$45,,,-73.84822559999999,40.710155
+                                    ",Cost for two:$45,-73.84822559999999,40.710155
 "My Place Family Pizza
                                     "," 240 E 198th Street, Bronx 10458",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.8896161,40.8691518
+                                    ",Cost for two:$25,-73.8896161,40.8691518
 "Gino's Pizzeria
                                     "," 10-38 Beach 20th Street, Queens, NY 11691",Cuisines: ,"
                                         -
-                                    ",Cost for two:$15,,,-73.752898,40.6033204
+                                    ",Cost for two:$15,-73.752898,40.6033204
 "Piccolo Trattoria
                                     "," 455 Main Street, New York, NY 10044",",","
                                         -
-                                    ",Cost for two:$40,,,-73.9526052,40.7592235
+                                    ",Cost for two:$40,-73.9526052,40.7592235
 "Rosa's Pizza & Pasta
                                     "," 62-65 Fresh Pond Road, Queens 11385",Cuisines: ,"
                                         -
-                                    ",Cost for two:$40,,,-73.900002,40.7121968
+                                    ",Cost for two:$40,-73.900002,40.7121968
 "Whit's End Pizza
                                     "," 97-14 Rockaway Beach Boulevard, Queens, NY 11693",",","
                                         -
-                                    ",Cost for two:$60,,,-73.8192481,40.584925
+                                    ",Cost for two:$60,-73.8192481,40.584925
 "Nonna Gina Pizzeria
                                     "," 4324 Greenpoint Ave, Sunnyside 11104",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.9211238,40.7411181
+                                    ",Cost for two:$25,-73.9211238,40.7411181
 "Marchini Homestyle
                                     "," 54-30 48th Street, Maspeth, Queens 11378",",","
                                         -
-                                    ",Cost for two:$25,,,-73.9193109,40.7302509
+                                    ",Cost for two:$25,-73.9193109,40.7302509
 "Nike's Pizzeria
                                     ", 625 East 189Th Street 10458,Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.8851011,40.8570504
+                                    ",Cost for two:$20,-73.8851011,40.8570504
 "Delizia 73 Ristorante & Pizza
                                     "," 1372 1st Avenue, New York 10021",Cuisines: ,"
                                         -
-                                    ",Cost for two:$50,,,-73.9551626,40.7685688
+                                    ",Cost for two:$50,-73.9551626,40.7685688
 "Milano Market
                                     "," 2892 Broadway, New York, NY 10025",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.9652404,40.8057329
+                                    ",Cost for two:$25,-73.9652404,40.8057329
 "Liola
                                     ", 15-01 149th Street 11357,",","
                                         -
-                                    ",Cost for two:$80,,,-73.815882,40.787061
+                                    ",Cost for two:$80,-73.815882,40.787061
 "Battista Ristorante
                                     "," 4602 Avenue N, Brooklyn 11234",Cuisines: ,"
                                         -
-                                    ",Cost for two:$70,,,-73.93056109999999,40.6185582
+                                    ",Cost for two:$70,-73.93056109999999,40.6185582
 "Via Quadronno
                                     "," 1228 Madison Avenue, New York 10128",Cuisines: ,"
                                         -
-                                    ",Cost for two:$60,,,-73.9578338,40.7825765
+                                    ",Cost for two:$60,-73.9578338,40.7825765
 "Grace's Marketplace
                                     "," 1299 2nd Avenue, New York 10065",Cuisines: ,"
                                         -
-                                    ",Cost for two:$30,,,-73.9602921,40.7665174
+                                    ",Cost for two:$30,-73.9602921,40.7665174
 "San Gennaro Trattoria
                                     "," 2329 Arthur Street, Bronx 10458",Cuisines: ,"
                                         -
-                                    ",Cost for two:$80,,,-73.8891299,40.854076
+                                    ",Cost for two:$80,-73.8891299,40.854076
 "Tutto Il Giorno -Tribeca
                                     ", 114 Franklin Street 10013,Cuisines: ,"
                                         -
-                                    ",Cost for two:$110,,,-74.0059811,40.71880400000001
+                                    ",Cost for two:$110,-74.0059811,40.71880400000001
 "Angelina's Metro Market
                                     "," LaGuardia Airport, Flushing 11371",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.8855943,40.77348509999999
+                                    ",Cost for two:$25,-73.8855943,40.77348509999999
 "Faro
                                     "," 436 Jefferson Street, Brooklyn 11237",Cuisines: ,"
                                         -
-                                    ",Cost for two:$60,,,-73.9228274,40.70741599999999
+                                    ",Cost for two:$60,-73.9228274,40.70741599999999
 "Benateri's Italian Deli
                                     ", 129-21 14th Avenue 11356,Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.83850269999999,40.7859697
+                                    ",Cost for two:$25,-73.83850269999999,40.7859697
 "Soleluna
                                     "," 40-01 Queens Boulevard, Queens 11104",Cuisines: ,"
                                         -
-                                    ",Cost for two:$30,,,-73.9240257,40.7440655
+                                    ",Cost for two:$30,-73.9240257,40.7440655
 "Crispo Restaurant
                                     "," 240 W 14th Street, New York 10011",Cuisines: ,"
                                         -
-                                    ",Cost for two:$50,,,-74.0018035,40.7391403
+                                    ",Cost for two:$50,-74.0018035,40.7391403
 "Laboratorio 51
                                     "," 329 W 51st Street, New York, NY 10018",Cuisines: ,"
                                         -
-                                    ",Cost for two:$40,,,-73.9868151,40.7636012
+                                    ",Cost for two:$40,-73.9868151,40.7636012
 "June
                                     "," 231 Court Street, Brooklyn 11201",Cuisines: ,"
                                         -
-                                    ",Cost for two:$80,,,-73.993907,40.686072
+                                    ",Cost for two:$80,-73.993907,40.686072
 "Goodfella's Victory
                                     "," 1817 Victory Boulevard, Castleton Corner 10314",41 votes,"
                                         4.0
-                                    ",Cost for two:$35,,,-74.1239701,40.613256
+                                    ",Cost for two:$35,-74.1239701,40.613256
 "Sal & Carmine's Pizza
                                     "," 2671 Broadway, New York 10025",58 votes,"
                                         4.2
-                                    ",Cost for two:$35,,,-73.969439,40.7983829
+                                    ",Cost for two:$35,-73.969439,40.7983829
 "Via Della Pace
                                     ", 48 East 7th Street. 10003,43 votes,"
                                         4.0
-                                    ",Cost for two:$80,,,-73.9876733,40.7276023
+                                    ",Cost for two:$80,-73.9876733,40.7276023
 "Dani's House of Pizza
                                     "," 81-28 Lefferts Boulevard, Queens 11415",51 votes,"
                                         4.5
-                                    ",Cost for two:$30,,,-73.8305343,40.7089715
+                                    ",Cost for two:$30,-73.8305343,40.7089715
 "Papazzio Restaurant
                                     ", 3938 Bell Boulevard 11361,",","
                                         3.9
-                                    ",Cost for two:$110,,,-73.7716303,40.76424
+                                    ",Cost for two:$110,-73.7716303,40.76424
 "Caffe Palermo
                                     "," 148 Mulberry Street, New York 10013",48 votes,"
                                         3.7
-                                    ",Cost for two:$20,,,-73.9972901,40.7189915
+                                    ",Cost for two:$20,-73.9972901,40.7189915
 "Little Italy Pizzeria
                                     "," 55 W 45th Street, New York 10036",45 votes,"
                                         3.9
-                                    ",Cost for two:$20,,,-73.98147039999999,40.7564841
+                                    ",Cost for two:$20,-73.98147039999999,40.7564841
 "Serafina Always
                                     "," 33 E 61st Street, New York 10065",59 votes,"
                                         4.1
-                                    ",Cost for two:$85,,,-73.9698085,40.7647562
+                                    ",Cost for two:$85,-73.9698085,40.7647562
 "My Little Pizzeria
                                     ", 114 Court Street 11201,46 votes,"
                                         4.4
-                                    ",Cost for two:$40,,,-73.99233149999999,40.6902516
+                                    ",Cost for two:$40,-73.99233149999999,40.6902516
 "Big Nick's
                                     "," 70 W 71st Street, New York 10023",44 votes,"
                                         3.9
-                                    ",Cost for two:$30,,,-73.9790728,40.7764537
+                                    ",Cost for two:$30,-73.9790728,40.7764537
 "Gruppo
                                     "," 98 Avenue B, New York 10009",42 votes,"
                                         3.9
-                                    ",Cost for two:$25,,,-73.98164849999999,40.7247367
+                                    ",Cost for two:$25,-73.98164849999999,40.7247367
 "Caffe Reggio
                                     "," 119 MacDougal Street, New York 10012",59 votes,"
                                         3.9
-                                    ",Cost for two:$40,,,-74.00041689999999,40.7302678
+                                    ",Cost for two:$40,-74.00041689999999,40.7302678
 "Il Pastaio di Eataly
                                     "," 200 5th Avenue, Flatiron 10010",28 votes,"
                                         3.6
-                                    ",Cost for two:$75,,,-73.989942,40.7419978
+                                    ",Cost for two:$75,-73.989942,40.7419978
 "Jimmy Max
                                     "," 280 Watchogue Roadd, Westerleigh 10314",48 votes,"
                                         4.2
-                                    ",Cost for two:$75,,,-74.1386538,40.61604120000001
+                                    ",Cost for two:$75,-74.1386538,40.61604120000001
 "Gabriel's
                                     "," 11 West 60th Street, New York 10023",",","
                                         3.9
-                                    ",Cost for two:$100,,,-73.9828696,40.7693649
+                                    ",Cost for two:$100,-73.9828696,40.7693649
 "Williamsburg Pizza
                                     "," 277 Broome Street, New York 10002",4 votes,"
                                         3.0
-                                    ",Cost for two:$50,,,-73.9911656,40.7182551
+                                    ",Cost for two:$50,-73.9911656,40.7182551
 "Palermo Pizza
                                     "," 61 Murray Street, New York 10007",2 votes,"
                                         3.0
-                                    ",Cost for two:$25,,,-74.0098684,40.7144132
+                                    ",Cost for two:$25,-74.0098684,40.7144132
 "Fabbrica
                                     "," 44 North 6th Street, Brooklyn 11249",12 votes,"
                                         3.2
-                                    ",Cost for two:$100,,,-73.9626643,40.7196429
+                                    ",Cost for two:$100,-73.9626643,40.7196429
 "De Lillo's Pastry Shop
                                     "," 610 E 187th Street, Bronx 10458",11 votes,"
                                         3.8
-                                    ",Cost for two:$15,,,-73.8872739,40.8551489
+                                    ",Cost for two:$15,-73.8872739,40.8551489
 "Broadway Pizza & Restaurant
                                     "," 2709 Broadway, New York 10025",8 votes,"
                                         3.6
-                                    ",Cost for two:$45,,,-73.9686711,40.7996265
+                                    ",Cost for two:$45,-73.9686711,40.7996265
 "Connie's Pizza
                                     "," 3845 Nostrand Avenue, Brooklyn 11235",",","
                                         3.6
-                                    ",Cost for two:$30,,,-73.93926569999999,40.5901463
+                                    ",Cost for two:$30,-73.93926569999999,40.5901463
 "Strokos Deli & Catering
                                     "," 888 10th Avenue, New York 10019",8 votes,"
                                         3.6
-                                    ",Cost for two:$25,,,-73.98784669999999,40.7695806
+                                    ",Cost for two:$25,-73.98784669999999,40.7695806
 "Margherita Pizza
                                     ", 16304 Jamaica Avenue 11432,6 votes,"
                                         3.7
-                                    ",Cost for two:$15,,,-73.79673249999999,40.7045847
+                                    ",Cost for two:$15,-73.79673249999999,40.7045847
 "Costata
                                     "," 206 Spring Street, New York 10012",",","
                                         3.2
-                                    ",Cost for two:$120,,,-74.00378280000001,40.72521709999999
+                                    ",Cost for two:$120,-74.00378280000001,40.72521709999999
 "Neofytos Pizza/ Gourmet Deli
                                     "," 1131 Madison Avenue, New York 10028",",","
                                         3.8
-                                    ",Cost for two:$30,,,-73.9593889,40.779726
+                                    ",Cost for two:$30,-73.9593889,40.779726
 "Piazza Pizza Restaurant
                                     "," 31-06 42nd Street, Queens 11103",5 votes,"
                                         3.7
-                                    ",Cost for two:$40,,,-73.9157973,40.7604499
+                                    ",Cost for two:$40,-73.9157973,40.7604499
 "Samaria Pizza
                                     "," 21-07 Broadway, Queens 11106",7 votes,"
                                         4.0
-                                    ",Cost for two:$25,,,-73.9310119,40.7655092
+                                    ",Cost for two:$25,-73.9310119,40.7655092
 "Rami's Kosher Pizza
                                     "," 3005 Avenue K, Brooklyn 11210",6 votes,"
                                         3.6
-                                    ",Cost for two:$15,,,-73.9461815,40.6246478
+                                    ",Cost for two:$15,-73.9461815,40.6246478
 "Caterina Pizzeria
                                     "," 907 Livonia Avenue, Brooklyn 11207",2 votes,"
                                         3.3
-                                    ",Cost for two:$20,,,-73.883448,40.6665445
+                                    ",Cost for two:$20,-73.883448,40.6665445
 "Big John Pizza & Pasta
                                     "," 219-11 Jamaica Avenue, Queens 11428",2 votes,"
                                         3.4
-                                    ",Cost for two:$20,,,-73.7358451,40.7185614
+                                    ",Cost for two:$20,-73.7358451,40.7185614
 "Gino's Pizza
                                     "," 81 Catherine Street, New York 10038",2 votes,"
                                         3.5
-                                    ",Cost for two:$20,,,-73.9964631,40.7107348
+                                    ",Cost for two:$20,-73.9964631,40.7107348
 "Ivana's Pizzeria
                                     "," 2373 Arthur Avenue, Bronx 10458",1 vote,"
                                         3.2
-                                    ",Cost for two:$15,,,-73.88826399999999,40.8550602
+                                    ",Cost for two:$15,-73.88826399999999,40.8550602
 "University Pizza & Restaurant
                                     "," 574 East Fordham Road, Bronx 10458",2 votes,"
                                         3.4
-                                    ",Cost for two:$10,,,-73.8858492,40.8586324
+                                    ",Cost for two:$10,-73.8858492,40.8586324
 "Bergen Beach Cafe
                                     "," 7112 Avenue U, Brooklyn 11234",2 votes,"
                                         3.1
-                                    ",Cost for two:$20,,,-73.9068869,40.6198494
+                                    ",Cost for two:$20,-73.9068869,40.6198494
 "Fat Cat's Pizza
                                     "," 32-20 34th Avenue, Queens 11106",1 vote,"
                                         3.2
-                                    ",Cost for two:$25,,,-73.9258536,40.7588982
+                                    ",Cost for two:$25,-73.9258536,40.7588982
 "La Sorrentina Pizza
                                     "," 6510 11th Avenue, Brooklyn 11219",2 votes,"
                                         3.3
-                                    ",Cost for two:$25,,,-74.0064402,40.62846589999999
+                                    ",Cost for two:$25,-74.0064402,40.62846589999999
 "Francesco's Restaurant & Pizzeria
                                     "," 70-29 Parsons Boulevard, Fresh Meadows 11365",1 vote,"
                                         3.4
-                                    ",Cost for two:$25,,,-73.8107247,40.731609
+                                    ",Cost for two:$25,-73.8107247,40.731609
 "Last Stop
                                     "," 22-35 31st Street, Queens 11105",",","
                                         3.5
-                                    ",Cost for two:$30,,,-73.9114968,40.7752832
+                                    ",Cost for two:$30,-73.9114968,40.7752832
 "New York Sal's Pizza
                                     "," 696 10th Avenue, New York 10019",2 votes,"
                                         3.1
-                                    ",Cost for two:$25,,,-73.9920697,40.763707
+                                    ",Cost for two:$25,-73.9920697,40.763707
 "Caffe Vivaldi
                                     "," 32 Jones Street, New York 10014",4 votes,"
                                         3.2
-                                    ",Cost for two:$75,,,-74.00298049999999,40.7317316
+                                    ",Cost for two:$75,-74.00298049999999,40.7317316
 "Casanova Restaurant
                                     "," 338 McGuinness Boulevard, Brooklyn 11222",4 votes,"
                                         3.7
-                                    ",Cost for two:$45,,,-73.9520374,40.7341244
+                                    ",Cost for two:$45,-73.9520374,40.7341244
 "Bella Pizza
                                     "," 4555 3rd Avenue, Bronx 10458",Cuisines: ,"
                                         -
-                                    ",Cost for two:$15,,,-73.89067829999999,40.8550089
+                                    ",Cost for two:$15,-73.89067829999999,40.8550089
 "Pino's Pizzeria
                                     "," 5201 5th Avenue, Brooklyn 11220",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-74.01138279999999,40.6437518
+                                    ",Cost for two:$20,-74.01138279999999,40.6437518
 "East Broadway Pizza
                                     ", 127 East Broadway 10002,Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.9919932,40.7137081
+                                    ",Cost for two:$25,-73.9919932,40.7137081
 "Pizza King
                                     "," 3916 18th Avenue, Brooklyn 11218",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.97290319999999,40.632898
+                                    ",Cost for two:$25,-73.97290319999999,40.632898
 "Five Star Cheesesteak and Pizza LLC
                                     "," 2039 1st Avenue, New York 10029",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.940713,40.78929300000001
+                                    ",Cost for two:$20,-73.940713,40.78929300000001
 "Saba's Pizza
                                     "," 403 Amsterdam Avenue, New York, NY 10024",",","
                                         -
-                                    ",Cost for two:$15,,,-73.9779866,40.7832954
+                                    ",Cost for two:$15,-73.9779866,40.7832954
 "Sam's Famous Pizza
                                     "," 150 E 116th Street, New York, NY 10029",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.941632,40.798309
+                                    ",Cost for two:$20,-73.941632,40.798309
 "City Cafe
                                     "," 35 W 43rd Street, New York 10036",",","
                                         -
-                                    ",Cost for two:$25,,,-73.9819838,40.7550912
+                                    ",Cost for two:$25,-73.9819838,40.7550912
 "Two Boots Pizza
                                     "," 558 Driggs Avenue, Brooklyn 11211",Cuisines: ,"
                                         -
-                                    ",Cost for two:$35,,,-73.9568094,40.717007
+                                    ",Cost for two:$35,-73.9568094,40.717007
 "Clinton Square Pizza
                                     "," 201 Clinton Street, New York 10002",Cuisines: ,"
                                         -
-                                    ",Cost for two:$30,,,-73.9872592,40.7139682
+                                    ",Cost for two:$30,-73.9872592,40.7139682
 "Pronto Pizza
                                     ", 62 W 48th Street 10036,Cuisines: ,"
                                         -
-                                    ",Cost for two:$15,,,-73.980715,40.758128
+                                    ",Cost for two:$15,-73.980715,40.758128
 "Jerusalem II Pizza
                                     "," 1424 Avenue M, Brooklyn 11230",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.96025159999999,40.6178135
+                                    ",Cost for two:$25,-73.96025159999999,40.6178135
 "Perfecto Pizza
                                     "," 169-23  Jamaica Avenue, Jamaica 11432",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.79001880000001,40.7073316
+                                    ",Cost for two:$20,-73.79001880000001,40.7073316
 "New York Pizzeria
                                     "," 821 5th Avenue, New York 10065",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.9710113,40.7670248
+                                    ",Cost for two:$20,-73.9710113,40.7670248
 "Domino's Pizza
                                     ", 315 East 204th Street,",","
                                         -
-                                    ",Cost for two:$15,,,-73.877994,40.87279669999999
+                                    ",Cost for two:$15,-73.877994,40.87279669999999
 "La Rossa
                                     "," 267 Lafayette Street, New York, NY",Cuisines: ,"
                                         -
-                                    ",Cost for two:$30,,,-73.99645029999999,40.72348239999999
+                                    ",Cost for two:$30,-73.99645029999999,40.72348239999999
 "Made In New York Pizza
                                     "," 645 9th Avenue, New York, NY",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.99139819999999,40.7606246
+                                    ",Cost for two:$20,-73.99139819999999,40.7606246
 "Uncle Al's Pizza
                                     "," 7810 20th Avenue, Brooklyn 11214",Cuisines: ,"
                                         -
-                                    ",Cost for two:$15,,,-73.9939988,40.60898479999999
+                                    ",Cost for two:$15,-73.9939988,40.60898479999999
 "Bellelizzimo Pizza
                                     "," 138-19 Hillside Avenue, Queens, NY 11435",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.81607710000002,40.7043811
+                                    ",Cost for two:$25,-73.81607710000002,40.7043811
 "Nicky Pizza
                                     "," 5376 65th Place, Maspeth 11378",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.9005025,40.7292549
+                                    ",Cost for two:$20,-73.9005025,40.7292549
 "Gino's Cucina & Brick Oven Pizza
                                     "," 723 Washington Avenue, Brooklyn, NY 11238",Cuisines: ,"
                                         -
-                                    ",Cost for two:$25,,,-73.9630985,40.6751683
+                                    ",Cost for two:$25,-73.9630985,40.6751683
 "J&B Yummy pizza
                                     "," 5507 5th Avenue, Brooklyn, NY 11220",Cuisines: ,"
                                         -
-                                    ",Cost for two:$10,,,-74.013223,40.6419884
+                                    ",Cost for two:$10,-74.013223,40.6419884
 "Slices Of Brooklyn
                                     "," 549 Kings Highway, Brooklyn, NY 11233",Cuisines: ,"
                                         -
-                                    ",Cost for two:$15,,,-73.9689975,40.6047902
+                                    ",Cost for two:$15,-73.9689975,40.6047902
 "Piecasso
                                     "," 7908 Cooper Avenue, Queens, NY",Cuisines: ,"
                                         -
-                                    ",Cost for two:$40,,,-73.8725298,40.7079193
+                                    ",Cost for two:$40,-73.8725298,40.7079193
 "Papas Fried Chicken And Pizza Inc
                                     "," 2919B Surf Avenue, Brooklyn, NY 11224",Cuisines: ,"
                                         -
-                                    ",Cost for two:$30,,,-73.9955964,40.5729923
+                                    ",Cost for two:$30,-73.9955964,40.5729923
 "Amici Pizza
                                     ", 6309 Amboy Road 10309,Cuisines: ,"
                                         -
-                                    ",Cost for two:$15,,,-74.2161345,40.5235741
+                                    ",Cost for two:$15,-74.2161345,40.5235741
 "Benny's Brick Oven Pizza
                                     "," 4001 13th Avenue, Brooklyn",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.9868022,40.63988579999999
+                                    ",Cost for two:$20,-73.9868022,40.63988579999999
 "Gotham Pizza
                                     "," 1443 York Avenue, New York 10075",Cuisines: ,"
                                         -
-                                    ",Cost for two:$20,,,-73.9517182,40.7700137
+                                    ",Cost for two:$20,-73.9517182,40.7700137
 "Rizzo Bakery
                                     "," 208 Central Ave, Jersey City 07307",6 votes,"
                                         3.4
-                                    ",Cost for two:$5,,,-74.05206609999999,40.7416644
+                                    ",Cost for two:$5,-74.05206609999999,40.7416644
 "New Pizza On The Block
                                     ", 6415 Park Avenue 07093,4 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.006027,40.7894429
+                                    ",Cost:$$$$,-74.006027,40.7894429
 "Bella Italia Pizzeria
                                     "," 2111 Bergenline Ave, Union City 07087",5 votes,"
                                         3.3
-                                    ",Cost:$$$$,,,-74.0336241,40.7661887
+                                    ",Cost:$$$$,-74.0336241,40.7661887
 "Singas Famous Pizza
                                     "," 840 Newark Avenue, Jersey City 07306",10 votes,"
                                         3.7
-                                    ",Cost for two:$22,,,-74.06679450000001,40.73602530000001
+                                    ",Cost for two:$22,-74.06679450000001,40.73602530000001
 "Mama Leona
                                     "," 249 Central Ave, Jersey City 07307",2 votes,"
                                         3.2
-                                    ",Cost for two:$12,,,-74.0512857,40.7435999
+                                    ",Cost for two:$12,-74.0512857,40.7435999
 "Carmine's Italian Deli
                                     "," 165 Mallory Ave, Jersey City 07304",13 votes,"
                                         4.3
-                                    ",Cost for two:$5,,,-74.0878742,40.7201719
+                                    ",Cost for two:$5,-74.0878742,40.7201719
 "Lorenzo's Restaurant & Bar
                                     "," 56 County Ave, Secaucus 07094",11 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.0685441,40.7668428
+                                    ",Cost:$$$$,-74.0685441,40.7668428
 "Original Presto's Brick Oven Pizza & Pasta
                                     "," 6001 Park Avenue, West New York 07093",15 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.0092864,40.7857002
+                                    ",Cost:$$$$,-74.0092864,40.7857002
 "Laico's Restaurant & Cocktail
                                     "," 67 Terhune Avenue, Jersey City 07305",43 votes,"
                                         4.5
-                                    ",Cost for two:$80,,,-74.0950326,40.7032344
+                                    ",Cost for two:$80,-74.0950326,40.7032344
 "La Sorrentina
                                     "," 7831 Bergenline Ave, North Bergen 07047",50 votes,"
                                         3.8
-                                    ",Cost:$$$$,,,-74.0069911,40.8017289
+                                    ",Cost:$$$$,-74.0069911,40.8017289
 "Rizzo Bros.
                                     "," 208 Central Ave., Jersey City 07307",1 vote,"
                                         3.2
-                                    ",Cost for two:$5,,,-74.05206609999999,40.7416644
+                                    ",Cost for two:$5,-74.05206609999999,40.7416644
 "Rita & Joe's Italian
                                     "," 142 Broadway, Jersey City 07306",15 votes,"
                                         3.8
-                                    ",Cost for two:$12,,,-74.0743712,40.7370095
+                                    ",Cost for two:$12,-74.0743712,40.7370095
 "Cafe Bello
                                     "," 1044 Ave C, Bayonne 07002",19 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.1042899,40.68389
+                                    ",Cost:$$$$,-74.1042899,40.68389
 "Buon Appetito - New Jersey
                                     ", 906 Broadway 07002,19 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.1057123,40.6783689
+                                    ",Cost:$$$$,-74.1057123,40.6783689
 "Panevino
                                     ", 637 West Mount Pleasant Ave 07039,36 votes,"
                                         3.7
-                                    ",Cost:$$$$,,,-74.3582433,40.7997255
+                                    ",Cost:$$$$,-74.3582433,40.7997255
 "M&E Caruso's Ristorante
                                     "," 545 Union Blvd, Totowa 07512",9 votes,"
                                         3.3
-                                    ",Cost:$$$$,,,-74.2183682,40.9000672
+                                    ",Cost:$$$$,-74.2183682,40.9000672
 "Benny Tudino's
                                     "," 622 Washington Street, Hoboken 07030",75 votes,"
                                         3.8
-                                    ",Cost for two:$30,,,-74.0291561,40.7442476
+                                    ",Cost for two:$30,-74.0291561,40.7442476
 "Il Castello's
                                     "," 81 Main St, Woodbridge 07095",21 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.2795983,40.5540645
+                                    ",Cost:$$$$,-74.2795983,40.5540645
 "IL-Giardino
                                     "," 103 Miln St, Cranford 07016",6 votes,"
                                         3.3
-                                    ",Cost:$$$$,,,-74.30627539999999,40.656457
+                                    ",Cost:$$$$,-74.30627539999999,40.656457
 "Rosie's Bistro Italiano
                                     "," 10 Palmer Ave, Bronxville 10708",71 votes,"
                                         4.3
-                                    ",Cost:$$$$,,,-73.8378948,40.9412465
+                                    ",Cost:$$$$,-73.8378948,40.9412465
 "Cousins pizzeria & Restaurant
                                     "," 543 bloomfield ave., Bloomfield 07003",3 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.1967602,40.7924768
+                                    ",Cost:$$$$,-74.1967602,40.7924768
 "Calabria Pizzeria
                                     "," 588 S Livingston Ave, Livingston 07039",14 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.32598279999999,40.7734736
+                                    ",Cost:$$$$,-74.32598279999999,40.7734736
 "Scalini Fedeli
                                     "," 63 Main St, Chatham 07928",29 votes,"
                                         4.0
-                                    ",Cost:$$$$,,,-74.37446299999999,40.7390799
+                                    ",Cost:$$$$,-74.37446299999999,40.7390799
 "Cousins Pizza & Restaurant
                                     ", 543 Bloomfield Avenue 07003,3 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.1967602,40.7924768
+                                    ",Cost:$$$$,-74.1967602,40.7924768
 "Mona Lisa Cafe
                                     "," 53 W Main St, Bogota 07603",2 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.0294844,40.8782215
+                                    ",Cost:$$$$,-74.0294844,40.8782215
 "La Catena
                                     "," 386 E Westfield Ave, Roselle Park 07204",3 votes,"
                                         3.3
-                                    ",Cost:$$$$,,,-74.2506478,40.66328499999999
+                                    ",Cost:$$$$,-74.2506478,40.66328499999999
 "Olive Garden Italian Restaurant
                                     ", 510 Woodbridge Center Drive 07095,5 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.30496219999999,40.5563316
+                                    ",Cost:$$$$,-74.30496219999999,40.5563316
 "Presto's New York Brick Oven Pizza & Pasta
                                     "," 772 Main Street, Hackensack 07601",14 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.0421988,40.9033197
+                                    ",Cost:$$$$,-74.0421988,40.9033197
 "Ciao Restaurant
                                     "," 5-7 John R Albanese Pl, Eastchester 10709",25 votes,"
                                         4.0
-                                    ",Cost:$$$$,,,-73.8185317,40.949642
+                                    ",Cost:$$$$,-73.8185317,40.949642
 "Il Palazzo Restaurant & Catering
                                     ", 600 Ringwood Avenue 07465,9 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.2886867,41.050488
+                                    ",Cost:$$$$,-74.2886867,41.050488
 "Cucina Calandra
                                     "," 216 Us-46, Fairfield 07004",15 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.3007753,40.8746214
+                                    ",Cost:$$$$,-74.3007753,40.8746214
 "Rocco's Pizzeria
                                     "," 30 Cook Plz, Madison 07940",13 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.415539,40.759684
+                                    ",Cost:$$$$,-74.415539,40.759684
 "Crecco's Cafe
                                     "," 655d westwood ave, River Vale 07675",7 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.00654759999999,40.9944709
+                                    ",Cost:$$$$,-74.00654759999999,40.9944709
 "Davia Restaurant
                                     "," 6-09 fair lawn ave., Fair Lawn 07410",3 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.13457079999999,40.9355243
+                                    ",Cost:$$$$,-74.13457079999999,40.9355243
 "Salugo Bistro
                                     "," 510 Bloomfield Ave, Verona 07044",2 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.2438069,40.8310475
+                                    ",Cost:$$$$,-74.2438069,40.8310475
 "Water & Wine
                                     ", 141 Stirling Road 07069,15 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.455631,40.6362116
+                                    ",Cost:$$$$,-74.455631,40.6362116
 "Fratelli's Restaurant Pizzeria
                                     "," 500 Rt-35, Red Bank 07701",9 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.09252029999999,40.3765831
+                                    ",Cost:$$$$,-74.09252029999999,40.3765831
 "Provesi of Morristown
                                     "," 50 South St, Morristown 07960",43 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.4794235,40.7953034
+                                    ",Cost:$$$$,-74.4794235,40.7953034
 "La Pastaria
                                     "," 30 Linden Pl, Red Bank 07701",28 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.063816,40.3492436
+                                    ",Cost:$$$$,-74.063816,40.3492436
 "Luigi's Famous Brick Oven Pizza & Catering
                                     "," 650 Newman Springs Road, Behind Bank of America, Lincroft 07738",10 votes,"
                                         3.9
-                                    ",Cost:$$$$,,,-74.1203381,40.33176
+                                    ",Cost:$$$$,-74.1203381,40.33176
 "Scaramella's Restaurant
                                     "," 1 Southfield Ave, Dobbs Ferry 10522",13 votes,"
                                         3.9
-                                    ",Cost:$$$$,,,-73.85052250000001,41.0125871
+                                    ",Cost:$$$$,-73.85052250000001,41.0125871
 "Menlo Pizza
                                     "," 170 Lafayette Avenue, Edison 08837",8 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.3346213,40.5435761
+                                    ",Cost:$$$$,-74.3346213,40.5435761
 "V & F Pizza
                                     "," 309 State Route 35, Cliffwood 07721",3 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.2256361,40.4383519
+                                    ",Cost:$$$$,-74.2256361,40.4383519
 "Panico's Pizza
                                     "," 94 Church St, New Brunswick 08901",26 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.4437009,40.4958528
+                                    ",Cost:$$$$,-74.4437009,40.4958528
 "Pieros
                                     "," 44 S Regent St, Port Chester 10528",16 votes,"
                                         4.0
-                                    ",Cost:$$$$,,,-73.674706,41.0034907
+                                    ",Cost:$$$$,-73.674706,41.0034907
 "Cafe Gallo
                                     ", 1153 Inman Avenue 08820,4 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.3679799,40.5963724
+                                    ",Cost:$$$$,-74.3679799,40.5963724
 "Cortina Ristorante
                                     "," 118 Berkshire Ave, Paterson 07502",0 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.1947739,40.9170828
+                                    ",Cost:$$$$,-74.1947739,40.9170828
 "New Corner Restaurant
                                     "," 22 E Front St, Red Bank 07701",8 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.0644585,40.3522494
+                                    ",Cost:$$$$,-74.0644585,40.3522494
 "Attilio's Pizzeria
                                     "," 4057 Asbury Ave, Tinton Falls 07753",11 votes,"
                                         3.8
-                                    ",Cost:$$$$,,,-74.0785702,40.2364431
+                                    ",Cost:$$$$,-74.0785702,40.2364431
 "Travato's Due II
                                     "," 4 Barbara Ln, Oakland 07436",4 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.24301400000002,41.0274127
+                                    ",Cost:$$$$,-74.24301400000002,41.0274127
 "Anthony's Pizza and Pasta
                                     "," 47 S Park Pl, Morristown 07960",10 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.4804733,40.7964448
+                                    ",Cost:$$$$,-74.4804733,40.7964448
 "Bacci Restaurant
                                     "," 3857 County Rd 516, Old Bridge 08857",7 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.297989,40.4022671
+                                    ",Cost:$$$$,-74.297989,40.4022671
 "A & S Fine Foods Of Wyckoff
                                     "," 525 Cedar Hill Rd, Wyckoff 07481",7 votes,"
                                         3.8
-                                    ",Cost:$$$$,,,-74.1692272,40.986278
+                                    ",Cost:$$$$,-74.1692272,40.986278
 "Gianna's Restaurant
                                     "," 711 Main St, Caldwell 07006",4 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.25280149999999,40.8814746
+                                    ",Cost:$$$$,-74.25280149999999,40.8814746
 "Ah' Pizz - Denville
                                     ", 4 West Main Street 07834,2 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.5118588,40.9007663
+                                    ",Cost:$$$$,-74.5118588,40.9007663
 "Trattoria 632
                                     ", 632 Anderson Hill Road 10577,5 votes,"
                                         3.1
-                                    ",Cost:$$$$,,,-73.7017893,41.0379656
+                                    ",Cost:$$$$,-73.7017893,41.0379656
 "Lovey's Pizza & Grill
                                     ", 91 West Hanover Avenue 07950,1 vote,"
                                         2.8
-                                    ",Cost:$$$$,,,-74.4888982,40.8237844
+                                    ",Cost:$$$$,-74.4888982,40.8237844
 "Brunswick Pizza & Grill
                                     ", 112 Church Street 08901,3 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.4446461,40.4957173
+                                    ",Cost:$$$$,-74.4446461,40.4957173
 "Torcello
                                     "," 91 Broad St, Red Bank 07701",1 vote,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.0648715,40.3491202
+                                    ",Cost:$$$$,-74.0648715,40.3491202
 "The Pizza & Pasta Factory
                                     "," 2 Ryan Road, Marlboro 07746",3 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.2533294,40.3042652
+                                    ",Cost:$$$$,-74.2533294,40.3042652
 "Casa Rina Restaurant
                                     "," 886 Commerce St, Thornwood 10594",13 votes,"
                                         3.7
-                                    ",Cost:$$$$,,,-73.7801906,41.1228584
+                                    ",Cost:$$$$,-73.7801906,41.1228584
 "Viana Pizza And Pasta
                                     "," 91 Cortland Street, Sleepy Hollow 10591",3 votes,"
                                         3.0
-                                    ",Cost:$$$$,,,-73.86425799999999,41.0807822
+                                    ",Cost:$$$$,-73.86425799999999,41.0807822
 "Maggie's Town Tavern
                                     "," 10 Van Ness Ave, Little Falls 07424",50 votes,"
                                         3.8
-                                    ",Cost:$$$$,,,-74.2229308,40.8805722
+                                    ",Cost:$$$$,-74.2229308,40.8805722
 "Lucio's Pizzeria
                                     "," 76 Washington Ave, Pleasantville 10570",13 votes,"
                                         3.7
-                                    ",Cost:$$$$,,,-73.7920252,41.1366145
+                                    ",Cost:$$$$,-73.7920252,41.1366145
 "The Village Inn
                                     "," 422 Runnymede Dr, Wayne 07470",16 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.2270576,40.9256061
+                                    ",Cost:$$$$,-74.2270576,40.9256061
 "Village Gourmet Cafe & Catering
                                     "," 525 High Mountain Rd, North Haledon 07508",3 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.1816589,40.9556676
+                                    ",Cost:$$$$,-74.1816589,40.9556676
 "Di Mola's Pizza and Restaurant
                                     ", 1060 US Highway 22 07060,9 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.449563,40.61928289999999
+                                    ",Cost:$$$$,-74.449563,40.61928289999999
 "Luigi's
                                     "," 183 Anderson Ave, Fairview 07022",5 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-73.99643209999999,40.81511560000001
+                                    ",Cost:$$$$,-73.99643209999999,40.81511560000001
 "M & S Pizza II
                                     "," 456 US Hwy 46, Dover 07801",10 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.5386611,40.8876147
+                                    ",Cost:$$$$,-74.5386611,40.8876147
 "Pizza Stop
                                     "," 340 Hamilton Blvd, South Plainfield 07080",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.41425,40.5769873
+                                    ",Cost:$$$$,-74.41425,40.5769873
 "Larios Pizza Pan y Cafe
                                     "," 261 Union Ave, Paterson 07502",4 votes,"
                                         3.3
-                                    ",Cost:$$$$,,,-74.1908412,40.9178315
+                                    ",Cost:$$$$,-74.1908412,40.9178315
 "Strega Bistro
                                     "," 430 Springfield Ave F, Berkeley Heights 07922",12 votes,"
                                         3.3
-                                    ",Cost:$$$$,,,-74.4384254,40.684475
+                                    ",Cost:$$$$,-74.4384254,40.684475
 "Cousins pizza and Restaurant
                                     "," 187 Rivervale Rd, River Vale 07675",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.0059811,40.99420629999999
+                                    ",Cost:$$$$,-74.0059811,40.99420629999999
 "New York Fried Chicken & Pizza
                                     "," 514 Clinton Ave, Newark 07108",16 votes,"
                                         4.3
-                                    ",Cost:$$$$,,,-74.2016696,40.7216489
+                                    ",Cost:$$$$,-74.2016696,40.7216489
 "Francesco's Pizza
                                     "," 2595 Woodbridge Ave, Edison 08817",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.37208059999999,40.5086297
+                                    ",Cost:$$$$,-74.37208059999999,40.5086297
 "Tj's Pizza & Subs
                                     "," 3107 Bordentown Ave, Parlin 08859",8 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.31439329999999,40.4503119
+                                    ",Cost:$$$$,-74.31439329999999,40.4503119
 "Our Place Pizza
                                     "," 938 Inman Ave, Edison 08820",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.3509119,40.5977501
+                                    ",Cost:$$$$,-74.3509119,40.5977501
 "Trama's Trattoria
                                     ", 115 Brighton Avenue,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-73.98714509999999,40.2846734
+                                    ",Cost:$$$$,-73.98714509999999,40.2846734
 "Tony D's
                                     "," 3 Hanford Place, Caldwell 07006",6 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.2783377,40.8413237
+                                    ",Cost:$$$$,-74.2783377,40.8413237
 "Vitale's Trattoria
                                     "," Route 46, Parsippany-Troy Hills 07054",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.4062448,40.8653026
+                                    ",Cost:$$$$,-74.4062448,40.8653026
 "MJ's Pizza Bar & Grill
                                     "," 1005 State Route 35, Middletown 07748",5 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.1067906,40.3965773
+                                    ",Cost:$$$$,-74.1067906,40.3965773
 "Francesco Pizzeria & Restaurant
                                     "," 23 N Main St, Milltown 08850",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.4382279,40.451974
+                                    ",Cost:$$$$,-74.4382279,40.451974
 "Pizzuto Ravioli & Macaroni
                                     "," 15 Main St, Eatontown 07724",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.05988540000001,40.3051312
+                                    ",Cost:$$$$,-74.05988540000001,40.3051312
 "Piazza Pizzeria & Ice Cream
                                     "," 520 Milton Rd, Rye 10580",21 votes,"
                                         4.1
-                                    ",Cost:$$$$,,,-73.6882711,40.962598
+                                    ",Cost:$$$$,-73.6882711,40.962598
 "Trattoria Carpaccio
                                     "," 120 Grand Ave, Englewood 07631",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-73.9762306,40.8893054
+                                    ",Cost:$$$$,-73.9762306,40.8893054
 "New York Pizza Company
                                     "," 3399 Crompond Road, Yorktown Heights 10598",1 vote,"
                                         2.9
-                                    ",Cost:$$$$,,,-73.8322742,41.2908261
+                                    ",Cost:$$$$,-73.8322742,41.2908261
 "Rose's Pizza & Ice Cream
                                     "," 4 Brunswick Ave, Edison 08817",7 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-74.4134026,40.5249621
+                                    ",Cost:$$$$,-74.4134026,40.5249621
 "Mia Pizzeria
                                     "," 3121 East Main St. (Cortlandt Town Center), Mohegan Lake 10547",1 vote,"
                                         3.1
-                                    ",Cost:$$$$,,,-73.86781429999999,41.3098985
+                                    ",Cost:$$$$,-73.86781429999999,41.3098985
 "Papa John's Pizza
                                     ", 405 Rt. 18 South 08816,3 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.3979727,40.4480901
+                                    ",Cost:$$$$,-74.3979727,40.4480901
 "Rini's Restaurant & Wine Bar
                                     "," 12 W Main St, Elmsford 10523",10 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-73.82209879999999,41.0529863
+                                    ",Cost:$$$$,-73.82209879999999,41.0529863
 "Franco Pizzeria
                                     "," 907 Bloomfield Ave, West Caldwell 07006",6 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-74.3004996,40.8535446
+                                    ",Cost:$$$$,-74.3004996,40.8535446
 "Ferazzoli's Italian Kitchen
                                     "," 317 Union Avenue, Rutherford 07070",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.1135697,40.8360575
+                                    ",Cost:$$$$,-74.1135697,40.8360575
 "The Brick Oven Pizza
                                     ", 147 Main Street 10522,7 votes,"
                                         3.6
-                                    ",Cost:$$$$,,,-73.87411220000001,41.0161167
+                                    ",Cost:$$$$,-73.87411220000001,41.0161167
 "Anna Artuso's Pastry Shop
                                     "," 969 Mclean Ave, Yonkers 10704",4 votes,"
                                         3.5
-                                    ",Cost:$$$$,,,-73.8660153,40.9029438
+                                    ",Cost:$$$$,-73.8660153,40.9029438
 "Euro Pizzeria
                                     ", 120 East Post Road 10601,4 votes,"
                                         2.9
-                                    ",Cost:$$$$,,,-73.7666777,41.0285558
+                                    ",Cost:$$$$,-73.7666777,41.0285558
 "Angelo's Pizza and Pasta
                                     ", 147 Irving Avenue 10573,2 votes,"
                                         3.1
-                                    ",Cost:$$$$,,,-73.66498,41.0024829
+                                    ",Cost:$$$$,-73.66498,41.0024829
 "Domino's Pizza
                                     ", 98 East Main Street 07446,1 vote,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.1392501,41.0573033
+                                    ",Cost:$$$$,-74.1392501,41.0573033
 "The Parlor
                                     ", 14 Cedar Street 10522,5 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-73.870931,41.0153474
+                                    ",Cost:$$$$,-73.870931,41.0153474
 "Domino's Pizza
                                     "," Us Hwy 9, Marlboro 07746",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.29458679999999,40.2843642
+                                    ",Cost:$$$$,-74.29458679999999,40.2843642
 "Domino's Pizza
                                     ", 629 Springfield Avenue 07922,2 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.4470152,40.68188689999999
+                                    ",Cost:$$$$,-74.4470152,40.68188689999999
 "Amici Pasta & Pizza
                                     "," 225 Demott Lane, Franklin Township 08873",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.5087456,40.5095698
+                                    ",Cost:$$$$,-74.5087456,40.5095698
 "10th Street Live
                                     "," 104 North 10th Street, Kenilworth 07033",2 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.30189829999999,40.6774192
+                                    ",Cost:$$$$,-74.30189829999999,40.6774192
 "Torino Pizza Restaurant
                                     "," 444 Rochelle Ave, Rochelle Park 07662",4 votes,"
                                         3.3
-                                    ",Cost:$$$$,,,-74.072914,40.909933
+                                    ",Cost:$$$$,-74.072914,40.909933
 "The Point
                                     "," 160 Bergen Blvd, Fairview 07022",3 votes,"
                                         3.4
-                                    ",Cost:$$$$,,,-74.0016887,40.8169601
+                                    ",Cost:$$$$,-74.0016887,40.8169601
 "Little Caesars Pizza
                                     "," 715 Park Ave, Plainfield 07060",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.41692619999999,40.6148871
+                                    ",Cost:$$$$,-74.41692619999999,40.6148871
 "Casa Turano Pizzeria
                                     "," 122 N Beverwyck Rd, Lake Hiawatha 07034",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.38161020000001,40.8839833
+                                    ",Cost:$$$$,-74.38161020000001,40.8839833
 "Rustoni's Pizza
                                     ", 309 Main Street 08872,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.3589764,40.47048729999999
+                                    ",Cost:$$$$,-74.3589764,40.47048729999999
 "Domino's Pizza
                                     ", 13 Washington Avenue 07628,1 vote,"
                                         3.3
-                                    ",Cost:$$$$,,,-73.9943661,40.9367976
+                                    ",Cost:$$$$,-73.9943661,40.9367976
 "Allendale Cafe
                                     "," 83 West Allendale Avenue, Allendale 07401",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.1289904,41.0304566
+                                    ",Cost:$$$$,-74.1289904,41.0304566
 "Papa John's Pizza
                                     ", 450 North Beverwyck Road Ste 7 07054,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.38371769999999,40.8754063
+                                    ",Cost:$$$$,-74.38371769999999,40.8754063
 "Pizza Hut
                                     "," 156 Market St, Paterson 07505",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.1715382,40.9163347
+                                    ",Cost:$$$$,-74.1715382,40.9163347
 "Center City Pizza
                                     ", 301 Main Street 08902,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,, , 
+                                    ",Cost:$$$$, , 
 "Papa John's Pizza
                                     ", 185 Straight Street. 07505,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.1662312,40.9179626
+                                    ",Cost:$$$$,-74.1662312,40.9179626
 "Papa John's Pizza
                                     ", 312 Rahway Avenue. 07202,2 votes,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.2236645,40.6587272
+                                    ",Cost:$$$$,-74.2236645,40.6587272
 "Domino's Pizza
                                     ", 101 North Avenue West 07016,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.3067338,40.6555144
+                                    ",Cost:$$$$,-74.3067338,40.6555144
 "Vinny's Pizza & Pasta
                                     ", 28 Eastman Street 07016,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.305714,40.6561758
+                                    ",Cost:$$$$,-74.305714,40.6561758
 "Domino's Pizza
                                     ", 467 Springfield Avenue,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.200991,40.731886
+                                    ",Cost:$$$$,-74.200991,40.731886
 "EZ-Pizza
                                     "," 155 RT. 17 South, Hasbrouck Heights 07604",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.0720078,40.8548189
+                                    ",Cost:$$$$,-74.0720078,40.8548189
 "Domino's
                                     "," 6 Orient Way, Rutherford 07070",1 vote,"
                                         3.2
-                                    ",Cost:$$$$,,,-74.10127299999999,40.8278285
+                                    ",Cost:$$$$,-74.10127299999999,40.8278285
 "Pizza Hut
                                     ", 487 Bloomfield Avenue. 07107,Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.1842025,40.7722203
+                                    ",Cost:$$$$,-74.1842025,40.7722203
 "Domino's Pizza
                                     ", 333 Union Avenue,",","
                                         -
-                                    ",Cost:$$$$,,,-119.0038919,35.3595901
+                                    ",Cost:$$$$,-119.0038919,35.3595901
 "Scarpa's Pizza
                                     "," 317 Union Ave, Rutherford 07070",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.1135697,40.8360575
+                                    ",Cost:$$$$,-74.1135697,40.8360575
 "Mike's Coffee Shop & Pizzeria
                                     "," 873 Broad St, Newark 07102",Cuisines: ,"
                                         -
-                                    ",Cost:$$$$,,,-74.1738714,40.7334965
+                                    ",Cost:$$$$,-74.1738714,40.7334965
