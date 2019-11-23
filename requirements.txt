@@ -16,6 +16,7 @@ dnspython==1.16.0
 entrypoints==0.3
 Flask==1.1.1
 Flask-PyMongo==2.3.0
+Flask-SQLAlchemy==2.4.1
 freeze==1.0.10
 future==0.17.1
 geojson==2.5.0
