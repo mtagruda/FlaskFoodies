@@ -1,13 +1,9 @@
-/* body {
-  padding: 0;
-  margin: 0;
-} */
 
-#map,
-body,
-html {
+/* #map, */
+/* body, */
+/* html {
   height: 100%;
-}
+} */
 
 #map1, #map2 { width: 49.5%; height: 100%; min-height: 100vh;}
 #map1 { float: left; }
@@ -22,7 +18,7 @@ hr {
 /* Jumbotron (hero) */
 .jumbotron {
   position: relative;
-  background: url(https://source.unsplash.com/9Y8vxVQN4o4/1920x1080) no-repeat bottom center / cover;
+  background: url(https://source.unsplash.com/Q_Moi2xjieU/1920x1080);
   
   &:before {
     position: absolute;
@@ -130,3 +126,15 @@ hr {
     }
   }
 }
+
+/* styles for sliders */
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+/* .bg1{
+  background: url(https://source.unsplash.com/Q_Moi2xjieU/1920x1080),
+  width: 100%;
+  height: 100%;
+} */

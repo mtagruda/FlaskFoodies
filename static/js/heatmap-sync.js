@@ -21,6 +21,13 @@ var lightmap= L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?
   accessToken: API_KEY
 });
 
+var lightmap2= L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+  attribution: "Map data &copy; <a href='https://www.openstreetmap.org/'>OpenStreetMap</a> contributors, <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>, Imagery © <a href='https://www.mapbox.com/'>Mapbox</a>",
+  maxZoom: 18,
+  id: "mapbox.light",
+  accessToken: API_KEY
+});
+
 d3.csv("../data/df_all_NN.csv").then(function (response) {
 
   response.forEach(function (data) {
@@ -154,16 +161,18 @@ d3.csv("../data/df_all_NN.csv").then(function (response) {
   };
 
   var myMap = L.map("map1", {
-    center: [29.76, -95.36],
-    zoom: 10
+    center: [29.8,-95.40],
+    zoom: 11
   });
 
   myMap.attributionControl.setPrefix('');
 
   var myMap2 = L.map("map2", {
-    center: [40.71, -74.00],
-    zoom: 10
+    center: [29.8,-95.40]
+    // zoom: 6
   });
+
+
 
   streetmap.addTo(myMap);
   streetmap2.addTo(myMap2);
@@ -192,10 +201,8 @@ d3.csv("../data/df_all_NN.csv").then(function (response) {
     collapsed: false
   }).addTo(myMap2);
 
-  // myMap.sync(myMap2);
-  // myMap2.sync(myMap);
-  // myMap.sync(myMap2, {offsetFn: L.Sync.offsetHelper([0.5, 0.5], [1, 0.75])});
-  // myMap2.sync(myMap, {offsetFn: L.Sync.offsetHelper([1, 0.75], [0.5, 0.5])});
+  myMap.sync(myMap2, {offsetFn: L.Sync.offsetHelper([0, 0.4], [-57.0, 24.5])});
+  myMap2.sync(myMap, {offsetFn: L.Sync.offsetHelper([-57.0, 24.5], [0, 0.4])});
 
   // New library
   var options = {
@@ -209,6 +216,11 @@ d3.csv("../data/df_all_NN.csv").then(function (response) {
 
   var control_zoom2 = L.control.zoomBox(options);
   myMap2.addControl(control_zoom2);
+
+  
+var a1= L.control.sideBySide(streetmap.addTo(myMap), lightmap.addTo(myMap)).addTo(myMap);
+
+var a2= L.control.sideBySide(streetmap2.addTo(myMap2), lightmap2.addTo(myMap2)).addTo(myMap2);
 
 }
 );
