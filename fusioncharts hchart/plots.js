@@ -27,9 +27,6 @@ FusionCharts.ready(function () {
                             "label": "BBQ"
                         },
                         {
-                            "label": "Indian"
-                        },
-                        {
                             "label": "Italian"
                         },
                         {
@@ -53,9 +50,6 @@ FusionCharts.ready(function () {
                             "value": "3.794"
                         },
                         {
-                            "value": "4.063"
-                        },
-                        {
                             "value": "3.441"
                         },
                         {
@@ -77,9 +71,6 @@ FusionCharts.ready(function () {
                         },
                         {
                             "value": "3.687"
-                        },
-                        {
-                            "value": "4.357"
                         },
                         {
                             "value": "3.921"
