@@ -18,7 +18,7 @@ hr {
 /* Jumbotron (hero) */
 .jumbotron {
   position: relative;
-  background: url(https://source.unsplash.com/Q_Moi2xjieU/1920x1080);
+  background: url(https://source.unsplash.com/-D09rH5sTw4/1920x1080);
   
   &:before {
     position: absolute;

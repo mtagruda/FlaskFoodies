@@ -11,37 +11,28 @@ from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 
-# app.config["SQLALCHEMY_DATABASE_URI"] = "postgres://yieqasktdngdap:ae5d27f49b650964142cb6b09e3bddc7f4e71334cbc83a7a052bf0b681a5df8d@ec2-54-225-173-42.compute-1.amazonaws.com:5432/d5fup55cdi35ms"
+app.config["SQLALCHEMY_DATABASE_URI"] = "postgres://yieqasktdngdap:ae5d27f49b650964142cb6b09e3bddc7f4e71334cbc83a7a052bf0b681a5df8d@ec2-54-225-173-42.compute-1.amazonaws.com:5432/d5fup55cdi35ms"
 
-# db = SQLAlchemy(app)
+db = SQLAlchemy(app)
 
-# metadata = MetaData()
-# metadata.reflect(db.engine)#, only=['Yelp', 'Zomato'])
+metadata = MetaData()
+metadata.reflect(db.engine)#, only=['Yelp', 'Zomato'])
 
-# Base = automap_base(metadata=metadata)
-# Base.prepare()
-# print('keys', Base.classes.keys())
-# yelp = Base.classes.Yelp
-# zomato= Base.classes.Zomato
+Base = automap_base(metadata=metadata)
+Base.prepare()
 
-# yelp = Base.classes.Yelp
-# zomato= Base.classes.Zomato
+df_all_nn = Base.classes.df
 
 @app.route("/")
 def index():
     return render_template("index.html")
 
-# @app.route("/heatmap")
-# def heatmap():
-#     return render_template("heatmap.html")
-
-# @app.route("/charts")
-# def charts():
-#     return render_template("charts.html")
-
-# @app.route("/data")
-# def data():
-#     return render_template("data.html")
-
+@app.route('/jsonified')
+def jsonified():
+    item = db.session.query(df_all_nn).statement
+    df = pd.read_sql_query(item, db.session.bind)
+    # df = df[['id', 'name', 'longitude', 'latitude', 'votes', 'rating', 'type', 'city']]
+    return jsonify(df.to_dict('items'))
+    
 if __name__ == "__main__":
     app.run()
