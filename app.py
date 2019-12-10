@@ -16,7 +16,7 @@ app.config["SQLALCHEMY_DATABASE_URI"] = "postgres://yieqasktdngdap:ae5d27f49b650
 db = SQLAlchemy(app)
 
 metadata = MetaData()
-metadata.reflect(db.engine)#, only=['Yelp', 'Zomato'])
+metadata.reflect(db.engine)
 
 Base = automap_base(metadata=metadata)
 Base.prepare()
@@ -31,8 +31,7 @@ def index():
 def jsonified():
     item = db.session.query(df_all_nn).statement
     df = pd.read_sql_query(item, db.session.bind)
-    # df = df[['id', 'name', 'longitude', 'latitude', 'votes', 'rating', 'type', 'city']]
-    return jsonify(df.to_dict('items'))
+    return jsonify(df.to_dict("records"))
     
 if __name__ == "__main__":
     app.run()
